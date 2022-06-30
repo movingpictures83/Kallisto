@@ -1,0 +1,3 @@
+/biorg/data/IDX/human_index.idx
+S12_R1.fastq
+S12_R2.fastq

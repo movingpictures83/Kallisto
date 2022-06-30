@@ -1,0 +1,2 @@
+Prefix plugins/Kallisto/example
+Plugin Kallisto inputfile input.kallisto.txt outputfile .
